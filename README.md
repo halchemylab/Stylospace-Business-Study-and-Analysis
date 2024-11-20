@@ -58,7 +58,7 @@ This project documents the execution of the following tasks:
 - Outlined key processes for client onboarding, package delivery, and post-service follow-ups.
 - Designed workflows to ensure operational efficiency.
 
-### **Task 3: Learn Lucidchart**
+### **Task 3: Business Flow Chart (Lucidchart)**
 - Mastered Lucidchart for process visualization.
 - Created clear and precise process flow diagrams to enhance understanding of business operations.
 
