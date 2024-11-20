@@ -130,10 +130,14 @@ Based on the analysis, I proposed the following solutions:
 
 Below are examples of process flows and diagrams created for this case study:
 - **Client Onboarding Flow**
-- **Styling Package Selection Workflow**
-- **Service Delivery Process**
+![Client Onboarding Flow](Client%20Onboarding%20Flow.jpeg)
 
-*(Add screenshots or Lucidchart outputs to visually enhance this section)*
+- **Styling Package Selection Workflow**
+![Styling Package Selection Workflow](Styling%20Package%20Selection%20Workflow.jpeg)
+
+- **Service Delivery Process**
+![Service Delivery Process](Service%20Delivery%20Process.jpeg)
+  
 
 ---
 
